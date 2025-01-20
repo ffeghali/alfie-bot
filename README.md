@@ -57,6 +57,6 @@ The development of AlfieBot has been inspired and guided by the following resour
 4. Set up your `.env` file with your **Discord bot token**.
 5. Run the bot:
    ```bash
-   python app.py
+   python main.py
    ```
 
